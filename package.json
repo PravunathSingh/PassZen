@@ -3,6 +3,20 @@
   "version": "1.0.0",
   "description": "A simple CLI tool to generate passwords based on various presets or custom prompts, store them as key value pairs and retrieve them anytime using the key names",
   "main": "index.js",
+  "homepage": "https://github.com/PravunathSingh/PassZen#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PravunathSingh/PassZen.git"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "cli",
+    "tool",
+    "passzen",
+    "password-generator",
+    "password-generator-cli"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

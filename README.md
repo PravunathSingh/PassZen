@@ -4,6 +4,7 @@
 
 ```bash
 npm install -g passzen
+yarn global add passzen
 ```
 
 ### Usage
