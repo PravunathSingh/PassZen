@@ -1,6 +1,6 @@
 {
   "name": "passzen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI tool to generate passwords based on various presets or custom prompts, store them as key value pairs and retrieve them anytime using the key names",
   "main": "index.js",
   "homepage": "https://github.com/PravunathSingh/PassZen#readme",
