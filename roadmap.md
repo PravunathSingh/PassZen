@@ -7,7 +7,7 @@
 - [x] Copy the password to the clipboard
 - [x] List all the saved passwords
 - [x] Delete a saved password
-- [] Update a saved password
-- [] GUI for the project
-- [] Add support for ESM (ES Modules) and TypeScript (TS)
-- [] Add dependabot to keep the dependencies up to date
+- [ ] Update a saved password
+- [ ] GUI for the project
+- [ ] Add support for ESM (ES Modules) and TypeScript (TS)
+- [ ] Add dependabot to keep the dependencies up to date
